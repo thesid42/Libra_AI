@@ -1,0 +1,4 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+llama-cpp-python>=0.2.11
+prompt_toolkit>=3.0.43
