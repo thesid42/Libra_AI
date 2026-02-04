@@ -95,7 +95,4 @@ This project includes custom C++ optimizations for llama.cpp that provide **25-3
 - Vectorized argmax for token selection
 - Vocabulary logits prefetching
 
-For detailed documentation, see [OPTIMIZATIONS.md](OPTIMIZATIONS.md).
-
-To build and use the optimizations, follow [INTEGRATION_GUIDE.md](INTEGRATION_GUIDE.md).
 
